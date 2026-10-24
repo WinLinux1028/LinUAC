@@ -1,6 +1,8 @@
 # LinUAC
 This project aims to implement a feature on Linux that allows the user to gain administrator privileges while remaining the current user, similar to Windows User Account Control (UAC).
 
+![](./images/top.png)
+
 ## How to use
 1. Build this with `cargo build --release`.
    - libcap is required.
